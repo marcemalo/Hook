@@ -1,0 +1,86 @@
+/* Container Styling */
+.hdfbmcs {
+    padding: 20px;
+    background: linear-gradient(135deg, #ff9a8b, #ff6a00); /* Gradient background from pink to orange */
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+    max-width: 600px;
+    margin: 20px auto;
+    overflow: hidden;
+    color: #fff; /* White text color */
+    text-align: center; /* Center-align text */
+}
+
+/* Title Styling */
+.dfhbjdxhcn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    margin-bottom: 15px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Description Styling */
+.zdxnhd {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    line-height: 1.4;
+    color: #f0f0f0; /* Light gray for description */
+}
+
+/* Image Styling */
+.xndxsnrf {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+    border: 4px solid #fff; /* White border around the image */
+}
+
+/* Recipe Name Styling */
+.sxdmnzfb {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Ingredients Styling */
+.jsahefgvshmn {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    color: #ffeb3b; /* Yellow color for ingredients */
+}
+
+/* Instructions Styling */
+.oooo {
+    font-family: 'Georgia', serif;
+    font-size: 1em;
+    line-height: 1.6;
+    color: #e0e0e0; /* Very light gray for instructions */
+}
+
+/* Button Styling */
+.ghsaj {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: #ff6a00; /* Orange color */
+    color: #fff;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    text-decoration: none; /* Remove underline from link */
+}
+
+.ghsaj:hover {
+    background-color: #ff9a8b; /* Light pink on hover */
+    transform: scale(1.05); /* Slightly scale up the button */
+}
